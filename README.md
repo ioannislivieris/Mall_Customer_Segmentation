@@ -51,9 +51,10 @@ This notebook presents the performed EDA.
 ```
 File: 02. Clustering (HDBSCAN).ipynb
 File: 02. Clustering (k-Means).ipynb
+File: 02. Clustering (GMM).ipynb
 ```
 
-Customer segmantation based on HDBSCAN and k-Means, which splitted the customer in 2 and 5 groups, respectively.
+Customer segmantation based on HDBSCAN, k-Means and GMM, which splitted the customer in 2 and 5 groups, respectively.
 
 ---
 <br />
@@ -66,6 +67,7 @@ Customer segmantation based on HDBSCAN and k-Means, which splitted the customer 
 - Run 01. EDA.ipynb
 - Run 02. Clustering (HDBSCAN).ipynb
 - Run 02. Clustering (k-Means).ipynb
+- Run 02. Clustering (GMM).ipynb
 
 ---
 <br />
